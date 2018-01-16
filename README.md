@@ -1,2 +1,2 @@
 # layouts
-Layouts for speeding up Front-end development.
+Layouts for speeding up Front-end development v0.01.
